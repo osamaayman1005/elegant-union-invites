@@ -32,11 +32,15 @@ export const Route = createRootRoute({
       { title: "Osama & Farah — Wedding · June 5, 2026" },
       { name: "description", content: "An invitation to the wedding of Osama & Farah at Masged Al Aly Al Azeem on June 5, 2026." },
       { name: "author", content: "Osama & Farah" },
-      { property: "og:title", content: "Osama & Farah — Wedding" },
-      { property: "og:description", content: "Mixing Love & Flavor — June 5, 2026." },
+      { property: "og:title", content: "Osama & Farah — Wedding · June 5, 2026" },
+      { property: "og:description", content: "An invitation to the wedding of Osama & Farah at Masged Al Aly Al Azeem on June 5, 2026." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Osama & Farah — Wedding · June 5, 2026" },
+      { name: "twitter:description", content: "An invitation to the wedding of Osama & Farah at Masged Al Aly Al Azeem on June 5, 2026." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8d0cc20-9d72-46b3-81be-5ee26ed2fcbb/id-preview-5da59faf--aaabd46d-8f0c-42f3-929d-5d8d9f3842fb.lovable.app-1776426825773.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8d0cc20-9d72-46b3-81be-5ee26ed2fcbb/id-preview-5da59faf--aaabd46d-8f0c-42f3-929d-5d8d9f3842fb.lovable.app-1776426825773.png" },
     ],
     links: [
       {
